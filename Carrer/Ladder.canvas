@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"1219942192346699","x":-320,"y":-160,"width":250,"height":240,"color":"4","type":"text","text":"1. Avoid Sleep in day time.\n2. Avoid full stomach in day. Try to eat twice rather than 1 full stomach\n3. Avoid social media in the day time\n4. Avoid porn"},
-		{"id":"cbdcf221b4eb4df1","x":-20,"y":-160,"width":250,"height":240,"color":"1","type":"text","text":"1. Sleep in a day only if you haven't slept for more than 24 hours, sick, or cause permanent loss to you. \n2. If need then try to have a jaljeera or similar\n3. Nil\n4. Focus more on s and mas"}
-	],
-	"edges":[
-		{"id":"33e635f5d42e9d10","fromNode":"1219942192346699","fromSide":"right","toNode":"cbdcf221b4eb4df1","toSide":"left"}
-	]
-}
