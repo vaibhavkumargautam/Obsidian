@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ee1449c101c61b8e",
+        "id": "e43361e4125f6d57",
         "type": "tabs",
         "children": [
           {
-            "id": "99b9a1f9f14cf082",
+            "id": "5c9abd66ffab414c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-07-08 12.46.21.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-07-08 12.46.21.excalidraw"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -82,8 +80,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -151,13 +148,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2025-07-08 12.46.21.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Drawing 2025-07-08 12.46.21.excalidraw"
+              "title": "Outline"
             }
           }
         ],
@@ -185,11 +181,12 @@
       "excel:Create Excel File": false
     }
   },
-  "active": "99b9a1f9f14cf082",
+  "active": "ea59b4902d176376",
   "lastOpenFiles": [
+    "Xmind",
+    "Untitled Kanban 1.md",
     "Excalidraw/Drawing 2025-07-08 12.46.21.excalidraw.md",
     "Excalidraw",
-    "Untitled Kanban 1.md",
     "Untitled Kanban.md",
     "Excel 2025-07-08 12.45.28.sheet.md",
     "README.md",
@@ -212,7 +209,6 @@
     "sddsds",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Untitled.md",
-    "Untitled"
+    "Untitled.md"
   ]
 }
