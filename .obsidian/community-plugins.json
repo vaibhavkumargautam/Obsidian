@@ -20,5 +20,6 @@
   "execute-code",
   "excel",
   "code-emitter",
-  "xmind-viewer"
+  "xmind-viewer",
+  "highlightr-plugin"
 ]
