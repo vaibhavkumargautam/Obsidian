@@ -3,5 +3,21 @@
   "heatmap-calendar",
   "dataview",
   "obsidian-excalidraw-plugin",
-  "templater-obsidian"
+  "templater-obsidian",
+  "advanced-canvas",
+  "table-editor-obsidian",
+  "obsidian-linter",
+  "obsidian-smart-typography",
+  "obsidian-scroll-offset",
+  "persistent-graph",
+  "url-into-selection",
+  "obsidian-kanban",
+  "obsidian-icon-folder",
+  "omnisearch",
+  "editing-toolbar",
+  "recent-files-obsidian",
+  "obsidian-theme-design-utilities",
+  "execute-code",
+  "excel",
+  "code-emitter"
 ]

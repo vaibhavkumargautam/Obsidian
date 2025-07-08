@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "cc49fd1e2f4fc01b",
+        "id": "ee1449c101c61b8e",
         "type": "tabs",
         "children": [
           {
-            "id": "cae6ac65726e8aa3",
+            "id": "99b9a1f9f14cf082",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2025-07-08 12.46.21.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-07-08 12.46.21.excalidraw"
             }
           }
         ]
@@ -73,8 +71,19 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "6bde77fc97c787eb",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -142,20 +151,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md",
+                "file": "Excalidraw/Drawing 2025-07-08 12.46.21.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Drawing 2025-07-08 12.46.21.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -168,18 +178,27 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "omnisearch:Omnisearch": false,
+      "excel:Create Excel File": false
     }
   },
-  "active": "cae6ac65726e8aa3",
+  "active": "99b9a1f9f14cf082",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-07-08 12.46.21.excalidraw.md",
+    "Excalidraw",
+    "Untitled Kanban 1.md",
+    "Untitled Kanban.md",
+    "Excel 2025-07-08 12.45.28.sheet.md",
+    "README.md",
     "2023-04-23.md",
     "2023-04-16.md",
     "2023-02-27.md",
     "2023-04-09.md",
     "2023-02-19.md",
     "2023-03-06.md",
-    "README.md",
     "Carrer/Roadmap.md",
     "Carrer/Ladder.canvas",
     "Day Planners/Day Planner-20230415.md",
