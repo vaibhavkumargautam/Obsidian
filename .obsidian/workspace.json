@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e43361e4125f6d57",
+        "id": "da11df77bc6fab6f",
         "type": "tabs",
         "children": [
           {
-            "id": "5c9abd66ffab414c",
+            "id": "2d8d8dd605cb7a8d",
             "type": "leaf",
             "state": {
-              "type": "xmind-viewer",
-              "state": {
-                "file": "Algo design.xmind"
-              },
-              "icon": "brain",
-              "title": "XMind view: Algo design"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -150,13 +148,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algo design.xmind",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Algo design"
+              "title": "Outline"
             }
           }
         ],
@@ -184,9 +181,10 @@
       "excel:Create Excel File": false
     }
   },
-  "active": "5c9abd66ffab414c",
+  "active": "2d8d8dd605cb7a8d",
   "lastOpenFiles": [
     "Algo design.xmind",
+    "Systemdesign.xmind",
     "Xmind",
     "Untitled Kanban 1.md",
     "Excalidraw/Drawing 2025-07-08 12.46.21.excalidraw.md",
