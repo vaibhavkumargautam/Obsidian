@@ -11,10 +11,12 @@
             "id": "877ee4b1c62365db",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "excel-view",
+              "state": {
+                "file": "Carrer/Networking.md"
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Networking"
             }
           }
         ]
@@ -182,7 +184,7 @@
       "excel:Create Excel File": false
     }
   },
-  "active": "ea59b4902d176376",
+  "active": "877ee4b1c62365db",
   "lastOpenFiles": [
     "README.md",
     "Carrer/Networking.md",
