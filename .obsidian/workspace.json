@@ -11,10 +11,17 @@
             "id": "877ee4b1c62365db",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -185,6 +192,9 @@
   },
   "active": "877ee4b1c62365db",
   "lastOpenFiles": [
+    "Excalidraw/Untitled.md",
+    "Untitled.canvas",
+    "Excalidraw/Untitled.canvas",
     "Carrer/Networking.md",
     "README.md",
     "Excel 2025-07-08 13.13.19.sheet.md",
@@ -214,7 +224,6 @@
     "sddsds/Udscxxc.md",
     "sddsds",
     "Untitled 1.canvas",
-    "Untitled.canvas",
     "Untitled.md"
   ]
 }
