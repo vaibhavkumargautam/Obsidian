@@ -20,5 +20,6 @@
   "execute-code",
   "excel",
   "code-emitter",
-  "highlightr-plugin"
+  "highlightr-plugin",
+  "password-protection"
 ]
