@@ -13,12 +13,14 @@
 		{
 			"id":"ec50ab183571a693",
 			"type":"text",
-			"text":"",
-			"styleAttributes":{},
+			"text":"sdfdsdf\nqqqq\n\n",
+			"styleAttributes":{
+				"shape":null
+			},
 			"x":20,
-			"y":-100,
+			"y":-80,
 			"width":260,
-			"height":60
+			"height":140
 		}
 	],
 	"edges":[
