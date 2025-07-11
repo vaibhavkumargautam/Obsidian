@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lifestyle/Public Speaking/Body Language.md",
+                "file": "Lifestyle/Public Speaking/Diction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Body Language"
+              "title": "Diction"
             }
           }
         ]
@@ -187,14 +187,15 @@
       "excel:Create Excel File": false
     }
   },
-  "active": "ea59b4902d176376",
+  "active": "cfdbd77fd9a828dc",
   "lastOpenFiles": [
+    "Lifestyle/Public Speaking/Body Language.md",
+    "Lifestyle/Public Speaking/Diction.md",
     "Lifestyle/Social influence/Networking",
     "Lifestyle/Public Speaking/Articulation Framework.md",
     "Lifestyle/Public Speaking/Facial Expression.md",
     "Lifestyle/Public Speaking/Stage Moment.md",
     "Lifestyle/Public Speaking/Voice Modulation.md",
-    "Lifestyle/Public Speaking/Body Language.md",
     "Untitled.canvas",
     "Lifestyle/Social influence",
     "Lifestyle/Ting",
@@ -213,7 +214,6 @@
     "Algo design.xmind",
     "Systemdesign.xmind",
     "Xmind",
-    "Excalidraw",
     "2023-04-23.md",
     "2023-04-16.md",
     "2023-02-27.md",
