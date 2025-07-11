@@ -11,10 +11,14 @@
             "id": "cfdbd77fd9a828dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Lifestyle/Public Speaking/Articulation Framework.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Articulation Framework"
             }
           }
         ]
@@ -183,15 +187,19 @@
       "excel:Create Excel File": false
     }
   },
-  "active": "ea59b4902d176376",
+  "active": "cfdbd77fd9a828dc",
   "lastOpenFiles": [
+    "Lifestyle/Public Speaking/Stage Moment.md",
+    "Lifestyle/Public Speaking/Articulation Framework.md",
+    "Lifestyle/Public Speaking/Voice Modulation.md",
+    "Lifestyle/Public Speaking/Body Language.md",
+    "Untitled.canvas",
     "Lifestyle/Social influence",
     "Lifestyle/Ting",
     "Lifestyle/Public Speaking",
     "Untitled",
     "Lifestyle",
     "Excalidraw/Untitled.md",
-    "Untitled.canvas",
     "Excalidraw/Untitled.canvas",
     "Carrer/Networking.md",
     "README.md",
@@ -220,8 +228,6 @@
     "Day Planners/Day Planner-20230221.md",
     "Day Planners/Day Planner-20230220.md",
     "sddsds/Udscxxc.md",
-    "sddsds",
-    "Untitled 1.canvas",
-    "Untitled.md"
+    "Untitled 1.canvas"
   ]
 }
