@@ -4,24 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3e6d65146d14aed9",
+        "id": "ceaee359c869e239",
         "type": "tabs",
         "children": [
           {
-            "id": "877ee4b1c62365db",
+            "id": "cfdbd77fd9a828dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": -10,
-                  "y": -10,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -190,8 +183,13 @@
       "excel:Create Excel File": false
     }
   },
-  "active": "877ee4b1c62365db",
+  "active": "ea59b4902d176376",
   "lastOpenFiles": [
+    "Lifestyle/Social influence",
+    "Lifestyle/Ting",
+    "Lifestyle/Public Speaking",
+    "Untitled",
+    "Lifestyle",
     "Excalidraw/Untitled.md",
     "Untitled.canvas",
     "Excalidraw/Untitled.canvas",
