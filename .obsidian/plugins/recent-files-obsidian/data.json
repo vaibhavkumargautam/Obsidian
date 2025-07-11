@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Diction",
-      "path": "Lifestyle/Public Speaking/Diction.md"
+      "basename": "Ting Overview",
+      "path": "Lifestyle/Ting/Ting Overview.md"
+    },
+    {
+      "basename": "Fitness Overview",
+      "path": "Lifestyle/Ting/Fitness/Fitness Overview.md"
     },
     {
       "basename": "Body Language",
       "path": "Lifestyle/Public Speaking/Body Language.md"
     },
     {
+      "basename": "Networking",
+      "path": "Job search/Networking.md"
+    },
+    {
+      "basename": "Diction",
+      "path": "Lifestyle/Public Speaking/Structure of the speech/Diction.md"
+    },
+    {
+      "basename": "Message and Structure",
+      "path": "Lifestyle/Public Speaking/Structure of the speech/Message and Structure.md"
+    },
+    {
+      "basename": "Know Your Audience",
+      "path": "Lifestyle/Public Speaking/Know Your Audience.md"
+    },
+    {
       "basename": "Articulation Framework",
-      "path": "Lifestyle/Public Speaking/Articulation Framework.md"
+      "path": "Lifestyle/Public Speaking/Impromptu/Articulation Framework.md"
     },
     {
       "basename": "Stage Moment",
@@ -19,22 +39,6 @@
     {
       "basename": "Voice Modulation",
       "path": "Lifestyle/Public Speaking/Voice Modulation.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.canvas"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Excalidraw/Untitled.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Excalidraw/Untitled.canvas"
-    },
-    {
-      "basename": "Networking",
-      "path": "Carrer/Networking.md"
     },
     {
       "basename": "README",
