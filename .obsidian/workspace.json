@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lifestyle/Public Speaking/Articulation Framework.md",
+                "file": "Lifestyle/Public Speaking/Body Language.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Articulation Framework"
+              "title": "Body Language"
             }
           }
         ]
@@ -187,10 +187,12 @@
       "excel:Create Excel File": false
     }
   },
-  "active": "cfdbd77fd9a828dc",
+  "active": "ea59b4902d176376",
   "lastOpenFiles": [
-    "Lifestyle/Public Speaking/Stage Moment.md",
+    "Lifestyle/Social influence/Networking",
     "Lifestyle/Public Speaking/Articulation Framework.md",
+    "Lifestyle/Public Speaking/Facial Expression.md",
+    "Lifestyle/Public Speaking/Stage Moment.md",
     "Lifestyle/Public Speaking/Voice Modulation.md",
     "Lifestyle/Public Speaking/Body Language.md",
     "Untitled.canvas",
@@ -226,8 +228,6 @@
     "Day Planners/Day Planner-20230225.md",
     "Day Planners/Day Planner-20230223.md",
     "Day Planners/Day Planner-20230221.md",
-    "Day Planners/Day Planner-20230220.md",
-    "sddsds/Udscxxc.md",
     "Untitled 1.canvas"
   ]
 }
