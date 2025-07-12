@@ -1,3 +1,6 @@
+#ImpressiveSkills #Leadership #SocialInfluence 
+
+
 # **Pitch**
 
 We can remember sounds because of the melody. Pitch is related to something to this. Practice with the above picture, inverted V, wave, and declination.

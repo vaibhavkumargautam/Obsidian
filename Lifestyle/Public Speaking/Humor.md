@@ -1,4 +1,7 @@
-Humour Type
+#ImpressiveSkills #SocialInfluence #Leadership
+
+
+Humor Type
 
 1. Misdirection Humor (Serious to non-serious like ravi gupta, referring someone to another like samay aap baasi ko jante honge) - Saying something exactly the opposite of what you are expected to say.
     

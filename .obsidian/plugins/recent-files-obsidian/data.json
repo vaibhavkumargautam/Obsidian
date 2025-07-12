@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "Ting Overview",
+      "path": "Lifestyle/Ting/Ting Overview.md"
+    },
+    {
+      "basename": "Voice Modulation",
+      "path": "Lifestyle/Public Speaking/Voice Modulation.md"
+    },
+    {
+      "basename": "Humor",
+      "path": "Lifestyle/Public Speaking/Humor.md"
+    },
+    {
+      "basename": "Swimming Overview",
+      "path": "Lifestyle/Fitness/Swimming/Swimming Overview.md"
+    },
+    {
+      "basename": "Salsa",
+      "path": "Lifestyle/Impress Skills/Dance/Salsa.md"
+    },
+    {
       "basename": "Fitness Overview",
       "path": "Lifestyle/Fitness/Fitness Overview.md"
     },
     {
-      "basename": "Ting Overview",
-      "path": "Lifestyle/Ting/Ting Overview.md"
+      "basename": "Gym Overview",
+      "path": "Lifestyle/Fitness/Gym/Gym Overview.md"
+    },
+    {
+      "basename": "Cognitive biases",
+      "path": "Research-Evolution/Biases/Cognitive biases.md"
     },
     {
       "basename": "Sexuality",
@@ -15,10 +39,6 @@
     {
       "basename": "Emotional Quotient Overview",
       "path": "Lifestyle/Emotional Quotient/Emotional Quotient Overview.md"
-    },
-    {
-      "basename": "Humor",
-      "path": "Lifestyle/Public Speaking/Humor.md"
     },
     {
       "basename": "Body Language",
@@ -41,20 +61,12 @@
       "path": "Research-Evolution/Human behavior-LLM.md"
     },
     {
-      "basename": "Cognitive biases",
-      "path": "Research-Evolution/Biases/Cognitive biases.md"
-    },
-    {
       "basename": "Public Speaking Overview",
       "path": "Lifestyle/Public Speaking/Public Speaking Overview.md"
     },
     {
       "basename": "Articulation Framework",
       "path": "Lifestyle/Public Speaking/Impromptu/Articulation Framework.md"
-    },
-    {
-      "basename": "Voice Modulation",
-      "path": "Lifestyle/Public Speaking/Voice Modulation.md"
     },
     {
       "basename": "Networking",
