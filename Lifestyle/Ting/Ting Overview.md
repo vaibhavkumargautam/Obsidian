@@ -27,7 +27,7 @@ Things which are generally matter
 
 Women have multi layered attraction
 
-Equation of attraction = $C_0*P_0 + $C_1*P_1 ……. =Overall point
+Equation of attraction = \mattC_0*P_0 + $C_1*P_1 ……. =Overall point
 
 Where Ci is the coefficient or value decided by each individual. Pi is the point given by the person.  
 Every coefficient can be influenced by each other internally. Multicollinearity
