@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lifestyle/Public Speaking/Humor.md",
+                "file": "Research-Evolution/Biases/Cognitive biases.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Humor"
+              "title": "Cognitive biases"
             }
           }
         ]
@@ -188,11 +188,13 @@
       "obsidian-task-progress-bar:Open Task Genius view": false
     }
   },
-  "active": "ea59b4902d176376",
+  "active": "42ed72abfe75e223",
   "lastOpenFiles": [
-    "Untitled",
-    "Lifestyle/Public Speaking/Body Language.md",
     "Lifestyle/Public Speaking/Humor.md",
+    "Research-Evolution/Biases/Cognitive biases.md",
+    "Research-Evolution/Biases",
+    "Research-Evolution",
+    "Lifestyle/Public Speaking/Body Language.md",
     "Lifestyle/Public Speaking/Public Speaking Overview.md",
     "Lifestyle/Ting/Ting Overview.md",
     "Lifestyle/Social influence/Persuasion.md",
@@ -217,9 +219,7 @@
     "Lifestyle/Financials/Business",
     "Lifestyle/Financials/Investment",
     "Lifestyle/Financials/Job",
-    "Lifestyle/Financials",
     "Lifestyle/Public Speaking/Structure of the speech/Diction.md",
-    "Lifestyle/Ting/Dress Sense",
     "Lifestyle/Public Speaking/Structure of the speech/Message and Structure.md",
     "Lifestyle/Public Speaking/Facial Expression.md",
     "Excalidraw/Untitled.md",
