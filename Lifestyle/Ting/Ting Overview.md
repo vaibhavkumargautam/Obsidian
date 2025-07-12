@@ -9,6 +9,7 @@ Things which are generally matter
 - [[Financial Overview]]
 - [[Social Influence Overview]]
 - [[Dress Sense Overview]]
+- [[Persuasion]]
 
 
 # 4 Pathways of approach

@@ -5,6 +5,8 @@ Things which are matter
 - [[Diction]]
 - [[Stage Moment]]
 - [[Script Writing]]
+- [[Persuasion]]
+
  
 
 

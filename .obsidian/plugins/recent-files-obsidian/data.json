@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Public Speaking Overview",
+      "path": "Lifestyle/Public Speaking/Public Speaking Overview.md"
+    },
+    {
       "basename": "Ting Overview",
       "path": "Lifestyle/Ting/Ting Overview.md"
     },
     {
-      "basename": "Networking",
-      "path": "Job search/Networking.md"
+      "basename": "Persuasion",
+      "path": "Lifestyle/Social influence/Persuasion.md"
     },
     {
-      "basename": "Public Speaking Overview",
-      "path": "Lifestyle/Public Speaking/Public Speaking Overview.md"
+      "basename": "Articulation Framework",
+      "path": "Lifestyle/Public Speaking/Impromptu/Articulation Framework.md"
+    },
+    {
+      "basename": "Voice Modulation",
+      "path": "Lifestyle/Public Speaking/Voice Modulation.md"
+    },
+    {
+      "basename": "Networking",
+      "path": "Job search/Networking.md"
     },
     {
       "basename": "Script Writing",
@@ -53,10 +65,6 @@
       "path": "Lifestyle/Public Speaking/Humor.md"
     },
     {
-      "basename": "Articulation Framework",
-      "path": "Lifestyle/Public Speaking/Impromptu/Articulation Framework.md"
-    },
-    {
       "basename": "Small Talk",
       "path": "Lifestyle/Social influence/Networking/Small Talk.md"
     },
@@ -67,10 +75,6 @@
     {
       "basename": "Message and Structure",
       "path": "Lifestyle/Public Speaking/Structure of the speech/Message and Structure.md"
-    },
-    {
-      "basename": "Voice Modulation",
-      "path": "Lifestyle/Public Speaking/Voice Modulation.md"
     },
     {
       "basename": "README",
