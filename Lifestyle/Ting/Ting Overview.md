@@ -10,6 +10,7 @@ Things which are generally matter
 - [[Social Influence Overview]]
 - [[Dress Sense Overview]]
 - [[Persuasion]]
+- [[Emotional Quotient Overview]]
 
 
 # 4 Pathways of approach
