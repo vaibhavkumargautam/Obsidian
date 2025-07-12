@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lifestyle/Ting/Ting Overview.md",
+                "file": "Lifestyle/Social influence/Persuasion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ting Overview"
+              "title": "Persuasion"
             }
           }
         ]
@@ -188,7 +188,7 @@
       "obsidian-task-progress-bar:Open Task Genius view": false
     }
   },
-  "active": "ea59b4902d176376",
+  "active": "ada4d7f5c6946334",
   "lastOpenFiles": [
     "Lifestyle/Ting/Ting Overview.md",
     "Research-Evolution/Human behavior-LLM.md",

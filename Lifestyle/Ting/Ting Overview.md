@@ -31,7 +31,6 @@ Equation of attraction. Overall point.
 $$
 \mathbb{C}_{0}*\mathbb{P}_{0}+\mathbb{C}_{1}*\mathbb{P}_{1}+\mathbb{C}_{2}*\mathbb{P}_{2}+\dots.
 $$
-
 Where $\mathbb{C}_{i}$ is the coefficient or value decided by each individual. $\mathbb{P}_{i}$ is the point given by the person.  
 Every coefficient can be influenced by each other internally. Multicollinearity
 
