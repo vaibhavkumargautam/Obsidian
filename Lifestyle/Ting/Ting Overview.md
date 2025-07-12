@@ -27,7 +27,7 @@ Things which are generally matter
 
 Women have multi layered attraction
 
-Equation of attraction. Overall point
+Equation of attraction. Overall point.
 $$
 \mathbb{C}_{0}*\mathbb{P}_{0}+\mathbb{C}_{1}*\mathbb{P}_{1}+\mathbb{C}_{2}*\mathbb{P}_{2}+\dots.
 $$
