@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dfcb2cb45b1921cf",
+        "id": "0bde1244ee7d247a",
         "type": "tabs",
         "children": [
           {
-            "id": "16122ead15e9af44",
+            "id": "42ed72abfe75e223",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -188,10 +188,11 @@
       "obsidian-task-progress-bar:Open Task Genius view": false
     }
   },
-  "active": "16122ead15e9af44",
+  "active": "ea59b4902d176376",
   "lastOpenFiles": [
-    "Lifestyle/Social influence/Networking/Small Talk.md",
+    "Lifestyle/Public Speaking/Public Speaking Overview.md",
     "Lifestyle/Ting/Ting Overview.md",
+    "Lifestyle/Social influence/Networking/Small Talk.md",
     "Lifestyle/Ting/Fitness/Fitness Overview.md",
     "Lifestyle/Public Speaking/Body Language.md",
     "Job search/Networking.md",
@@ -228,7 +229,6 @@
     "2023-03-06.md",
     "Carrer/Roadmap.md",
     "Carrer/Ladder.canvas",
-    "Day Planners/Day Planner-20230415.md",
     "Untitled 1.canvas"
   ]
 }
