@@ -200,14 +200,17 @@
       "obsidian-kanban:Create new board": false,
       "omnisearch:Omnisearch": false,
       "excel:Create Excel File": false,
-      "obsidian-task-progress-bar:Open Task Genius view": false
+      "obsidian-task-progress-bar:Open Task Genius view": false,
+      "obsidian-read-it-later:ReadItLater: Create from clipboard": false
     }
   },
   "active": "ada4d7f5c6946334",
   "lastOpenFiles": [
     "Lifestyle/Ting/Ting Overview.md",
-    "Lifestyle/Public Speaking/Humor.md",
     "Lifestyle/Emotional Quotient/Emotional Quotient Overview.md",
+    "ReadItLater Inbox/Youtube - How Amazon S3 Achieves 99.999999999% Durability  Engineering Behind the 11 Nines.md",
+    "ReadItLater Inbox",
+    "Lifestyle/Public Speaking/Humor.md",
     "Lifestyle/Public Speaking/Body Language.md",
     "Lifestyle/Emotional Quotient",
     "Lifestyle/Social influence/Persuasion.md",
@@ -236,13 +239,11 @@
     "Lifestyle/Physical Fitness",
     "Untitled.canvas",
     "Lifestyle/Financials/Business",
-    "Lifestyle/Financials/Investment",
     "Lifestyle/Public Speaking/Structure of the speech/Message and Structure.md",
     "Lifestyle/Public Speaking/Facial Expression.md",
     "Excalidraw/Untitled.md",
     "Excalidraw/Untitled.canvas",
     "README.md",
-    "Excel 2025-07-08 13.13.19.sheet.md",
     "Carrer/Ladder.canvas",
     "Untitled 1.canvas"
   ]
