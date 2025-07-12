@@ -22,5 +22,9 @@
   "code-emitter",
   "highlightr-plugin",
   "password-protection",
-  "obsidian-mind-map"
+  "obsidian-mind-map",
+  "obsidian-advanced-uri",
+  "obsidian-task-progress-bar",
+  "numerals",
+  "inlineai"
 ]

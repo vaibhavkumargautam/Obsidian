@@ -184,13 +184,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-kanban:Create new board": false,
       "omnisearch:Omnisearch": false,
-      "excel:Create Excel File": false
+      "excel:Create Excel File": false,
+      "obsidian-task-progress-bar:Open Task Genius view": false
     }
   },
   "active": "16122ead15e9af44",
   "lastOpenFiles": [
-    "Lifestyle/Ting/Fitness/Fitness Overview.md",
+    "Lifestyle/Social influence/Networking/Small Talk.md",
     "Lifestyle/Ting/Ting Overview.md",
+    "Lifestyle/Ting/Fitness/Fitness Overview.md",
     "Lifestyle/Public Speaking/Body Language.md",
     "Job search/Networking.md",
     "Untitled.canvas",
@@ -227,7 +229,6 @@
     "Carrer/Roadmap.md",
     "Carrer/Ladder.canvas",
     "Day Planners/Day Planner-20230415.md",
-    "Day Planners/Day Planner-20230409.md",
     "Untitled 1.canvas"
   ]
 }

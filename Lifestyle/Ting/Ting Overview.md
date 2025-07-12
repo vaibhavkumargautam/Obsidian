@@ -3,4 +3,5 @@ Things which generally matter
 - [[Body Language]]
 - [[Voice Modulation]]
 - [[Fitness Overview]]
+- [[Small Talk]]
 - 
