@@ -10,4 +10,5 @@ Humour Type
 
 # Links
 1. https://www.youtube.com/watch?si=WFeQ_iZB7Gn47OMw&v=dS0z8fwl16Y&feature=youtu.be
-2. 
+2. [How Amazon S3 Achieves 99.999999999% Durability | Engineering Behind the 11 Nines](https://www.youtube.com/watch?v=DaHmxRg2GWc)
+3. 
