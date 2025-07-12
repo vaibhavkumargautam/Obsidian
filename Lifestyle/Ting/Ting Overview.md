@@ -11,6 +11,7 @@ Things which are generally matter
 - [[Dress Sense Overview]]
 - [[Persuasion]]
 - [[Emotional Quotient Overview]]
+- [[Sexuaity]]
 
 
 # 4 Pathways of approach

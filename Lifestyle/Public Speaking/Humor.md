@@ -9,6 +9,5 @@ Humour Type
 4. Affiliative Humor (represent object as person and its perception, talk/expose about a boy negative attitude)- Asking creative funny questions about stuff that everyone thinks about e.g. Old-Age
 
 # Links
-1. https://www.youtube.com/watch?si=WFeQ_iZB7Gn47OMw&v=dS0z8fwl16Y&feature=youtu.be
-2. [How Amazon S3 Achieves 99.999999999% Durability | Engineering Behind the 11 Nines](https://www.youtube.com/watch?v=DaHmxRg2GWc)
-3. 
+1. [# FUNNY कैसे बने - ये 5 तरीके जाने | Humour development | Improve Your Sense Of Humour| Sumit Saha ji](https://www.youtube.com/watch?si=WFeQ_iZB7Gn47OMw&v=dS0z8fwl16Y)
+ 
