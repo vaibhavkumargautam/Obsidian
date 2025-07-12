@@ -23,3 +23,17 @@ Things which are generally matter
 4. Social media: be famous
     
 5. Hobbies - create natural connections
+
+
+Women have multi layered attraction
+
+Equation of attraction = C0*P0 + C1*P1 ……. =Overall point
+
+Where Ci is the coefficient or value decided by each individual. Pi is the point given by the person.  
+Every coefficient can be influenced by each other internally. Multicollinearity
+
+The thing you take care
+
+1. Portray images (Knowledge, looks, finance,s etc) - Software engineers, middle class.
+    
+2. The other person's value system
