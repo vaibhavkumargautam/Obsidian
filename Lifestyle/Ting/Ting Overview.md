@@ -1,8 +1,10 @@
-Things which generally matter
+Things which are generally matter
 - [[Diction]]
 - [[Body Language]]
 - [[Voice Modulation]]
 - [[Fitness Overview]]
 - [[Small Talk]]
 - [[Humor]]
+- [[Education Overview]]
+- [[Financial Overview]]
 - 

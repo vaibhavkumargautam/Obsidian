@@ -5,6 +5,14 @@
       "path": "Lifestyle/Ting/Ting Overview.md"
     },
     {
+      "basename": "Financial Overview",
+      "path": "Lifestyle/Financials/Financial Overview.md"
+    },
+    {
+      "basename": "Education Overview",
+      "path": "Lifestyle/Education/Education Overview.md"
+    },
+    {
       "basename": "Fitness Overview",
       "path": "Lifestyle/Fitness/Fitness Overview.md"
     },
