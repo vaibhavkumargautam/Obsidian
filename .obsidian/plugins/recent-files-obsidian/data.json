@@ -5,16 +5,24 @@
       "path": "Lifestyle/Ting/Ting Overview.md"
     },
     {
-      "basename": "Public Speaking Overview",
-      "path": "Lifestyle/Public Speaking/Public Speaking Overview.md"
+      "basename": "Fitness Overview",
+      "path": "Lifestyle/Fitness/Fitness Overview.md"
+    },
+    {
+      "basename": "Humor",
+      "path": "Lifestyle/Public Speaking/Humor.md"
+    },
+    {
+      "basename": "Articulation Framework",
+      "path": "Lifestyle/Public Speaking/Impromptu/Articulation Framework.md"
     },
     {
       "basename": "Small Talk",
       "path": "Lifestyle/Social influence/Networking/Small Talk.md"
     },
     {
-      "basename": "Fitness Overview",
-      "path": "Lifestyle/Ting/Fitness/Fitness Overview.md"
+      "basename": "Public Speaking Overview",
+      "path": "Lifestyle/Public Speaking/Public Speaking Overview.md"
     },
     {
       "basename": "Body Language",
@@ -35,10 +43,6 @@
     {
       "basename": "Know Your Audience",
       "path": "Lifestyle/Public Speaking/Know Your Audience.md"
-    },
-    {
-      "basename": "Articulation Framework",
-      "path": "Lifestyle/Public Speaking/Impromptu/Articulation Framework.md"
     },
     {
       "basename": "Stage Moment",

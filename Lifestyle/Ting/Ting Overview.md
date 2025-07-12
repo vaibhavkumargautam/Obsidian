@@ -4,4 +4,5 @@ Things which generally matter
 - [[Voice Modulation]]
 - [[Fitness Overview]]
 - [[Small Talk]]
+- [[Humor]]
 - 
