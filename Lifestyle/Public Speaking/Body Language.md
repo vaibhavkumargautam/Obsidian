@@ -1,3 +1,5 @@
+In real, expressions come first then word. In acting it is vice versa.
+
 # Facial exercise
 
 1. E and O speak
@@ -11,3 +13,8 @@
 5. Squeeze forehead muscles
     
 6. Eye ball up, down, left ,right then random face without moving face
+
+
+# Links
+1. https://www.youtube.com/watch?v=Cs54p0WNFKE
+2. https://www.youtube.com/watch?v=tV8gGU5IisM
