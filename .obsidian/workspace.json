@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research-Evolution/Biases/Cognitive biases.md",
+                "file": "Research-Evolution/Human behavior-LLM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cognitive biases"
+              "title": "Human behavior-LLM"
             }
           }
         ]
@@ -190,8 +190,9 @@
   },
   "active": "42ed72abfe75e223",
   "lastOpenFiles": [
-    "Lifestyle/Public Speaking/Humor.md",
     "Research-Evolution/Biases/Cognitive biases.md",
+    "Research-Evolution/Human behavior-LLM.md",
+    "Lifestyle/Public Speaking/Humor.md",
     "Research-Evolution/Biases",
     "Research-Evolution",
     "Lifestyle/Public Speaking/Body Language.md",
@@ -227,7 +228,6 @@
     "README.md",
     "Excel 2025-07-08 13.13.19.sheet.md",
     "Excalidraw/Networking.md",
-    "Untitled Kanban 1.md",
     "Carrer/Ladder.canvas",
     "Untitled 1.canvas"
   ]
