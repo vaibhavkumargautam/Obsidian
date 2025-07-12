@@ -8,4 +8,5 @@ Things which are generally matter
 - [[Education Overview]]
 - [[Financial Overview]]
 - [[Social Influence Overview]]
+- [[Dress Sense Overview]]
 - 
