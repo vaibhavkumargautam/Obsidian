@@ -26,6 +26,8 @@ Things which are generally matter
 
 
 Women have multi layered attraction
+\mathbb{x}_{1}
+
 
 Equation of attraction = \mattC_0*P_0 + $C_1*P_1 ……. =Overall point
 
