@@ -5,6 +5,14 @@
       "path": "Lifestyle/Ting/Ting Overview.md"
     },
     {
+      "basename": "Emotional Quotient Overview",
+      "path": "Lifestyle/Emotional Quotient/Emotional Quotient Overview.md"
+    },
+    {
+      "basename": "Persuasion",
+      "path": "Lifestyle/Social influence/Persuasion.md"
+    },
+    {
       "basename": "Voice Modulation",
       "path": "Lifestyle/Public Speaking/Voice Modulation.md"
     },
@@ -37,16 +45,8 @@
       "path": "Lifestyle/Ting/Sexuality.md"
     },
     {
-      "basename": "Emotional Quotient Overview",
-      "path": "Lifestyle/Emotional Quotient/Emotional Quotient Overview.md"
-    },
-    {
       "basename": "Body Language",
       "path": "Lifestyle/Public Speaking/Body Language.md"
-    },
-    {
-      "basename": "Persuasion",
-      "path": "Lifestyle/Social influence/Persuasion.md"
     },
     {
       "basename": "Small Talk",
