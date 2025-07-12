@@ -7,4 +7,5 @@ Things which are generally matter
 - [[Humor]]
 - [[Education Overview]]
 - [[Financial Overview]]
+- [[Social Influence Overview]]
 - 
